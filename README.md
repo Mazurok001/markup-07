@@ -1,2 +1,2 @@
-modul-6
-Form elements. Stylization of forms.
+modul-7
+BEM. SASS.
